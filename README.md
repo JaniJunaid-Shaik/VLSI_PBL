@@ -12,7 +12,7 @@ Field Programmable Gate Arrays (FPGAs) are widely used in modern embedded system
 ---
 
 ## VLSI Design Concepts Used
-
+   This project builds directly on core concepts from **VLSI DESIGN** course :
 1. **Low-Power VLSI Design Techniques:**   
     Concepts such as clock gating, power gating, and reduction of switching activity are used to minimize both dynamic and static power consumption in the CLB architecture.
 
